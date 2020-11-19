@@ -152,7 +152,7 @@ r\B # in string "regex is really cool", matches 'r' in "regex" and "really"
 
 ###### Ref:
 
-[regex 101]: https://regex101.com/
+[regex 101](https://regex101.com/)
 
 ```shell
 man grep
