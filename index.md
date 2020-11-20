@@ -138,3 +138,7 @@ ls | sort | head -n 4 #list directory, then sort , then print first 4 lines of s
 ls | sort | head -n 4 | tail -n 2 #guess it!
 ```
 
+#### VIDEO
+
+[Linux Shell Basics](https://www.youtube.com/watch?v=MlTrftsAjyE)
+
