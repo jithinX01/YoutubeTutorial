@@ -112,6 +112,8 @@ Escape, gg
 Escape, G
 ```
 
+#### VIDEO
 
+[Vim Basics](https://www.youtube.com/watch?v=X93D0uSQnFo)
 
 Note: Press Escape only if vim is in insert mode.
